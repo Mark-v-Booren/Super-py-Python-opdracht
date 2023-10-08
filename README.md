@@ -1,5 +1,4 @@
-Back-end oassignment using the PeeWee ORM :
-using tags 
+Back-end assignment with three  three important modules from the standard library
 
 1
 csv: CSV File Reading and Writing
